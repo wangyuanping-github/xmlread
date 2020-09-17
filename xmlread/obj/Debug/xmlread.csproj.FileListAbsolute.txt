@@ -1,0 +1,10 @@
+C:\Users\wangyuanping\Desktop\xmlread\bin\Debug\xmlread.exe.config
+C:\Users\wangyuanping\Desktop\xmlread\bin\Debug\xmlread.exe
+C:\Users\wangyuanping\Desktop\xmlread\bin\Debug\xmlread.pdb
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.csprojAssemblyReference.cache
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.Form1.resources
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.Properties.Resources.resources
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.csproj.GenerateResource.cache
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.csproj.CoreCompileInputs.cache
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.exe
+C:\Users\wangyuanping\Desktop\xmlread\obj\Debug\xmlread.pdb
